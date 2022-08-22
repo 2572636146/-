@@ -7,14 +7,14 @@ import os
 import random
 
 today = datetime.now()
-start_date ='2005-12-09'
-city ='枣庄'
+start_date = '2005-12-09'
+city = '枣庄'
 birthday = '12-09'
-app_id ='wx1e7fea5c1735db5e'
-app_secret ='1be75c48a4136d07d331468137ee0c55'
-user_id ='oyJTp54JOJgoWwPtbJ9gHzs6lfrw'
+app_id = 'wx1e7fea5c1735db5e'
+app_secret = '1be75c48a4136d07d331468137ee0c55'
+user_id = 'oyJTp54JOJgoWwPtbJ9gHzs6lfrw'
 
-template_id ='RUVuOS8dfDNZo1x3F0jqbK0A9Iujk1BIeI8Nf9p9O4Y'
+template_id = 'RUVuOS8dfDNZo1x3F0jqbK0A9Iujk1BIeI8Nf9p9O4Y'
 
 
 def get_weather():
